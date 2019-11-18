@@ -1,2 +1,6 @@
 Test txt
-Ãß°¡Ãß°¡Ãß°¡Ãß¤Ð°¡Ãò¤Ì°¡Ãß°¡
+ì¶”ê°€ì¶”ê°€ì¶”ê°€ì¶”ã… ê°€ì¸„ã…œê°€ì¶”ê°€
+class A {
+  public static void main(String args[])
+  
+}
